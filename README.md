@@ -29,3 +29,7 @@ Technolgies Used
 
 I first used Adobe XD to create my wireframe.I then used repl.it to code it since it also provided a preview, it allow me see any changes and check if there are any errors in my code. I then copied all the code to Visual Studio Code and linked it to GitHub 
 
+Testing
+-----------------
+During Testing, i discovered very few errors with my code, one of the errors i discovered was the first page in that the picture and text did not take up the entire width, i also tested multiple deviice using Repl.it and dound they all adjusted accordingly 
+
