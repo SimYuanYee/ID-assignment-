@@ -22,5 +22,10 @@ Feature 2-Allow users to to fill in their required email address at the last pag
 
 Technolgies Used
 -------------------
-I first used repl.it to code it since it also provided a preview, it allow me see any changes and check if there are any erroes 
-in my code. I then copied all the code to Visual Studio Code and linked it to GitHub 
+1.Repl.it
+2.Visual Studio Code
+3.Github
+4.Adobe XD
+
+I first used Adobe XD to create my wireframe.I then used repl.it to code it since it also provided a preview, it allow me see any changes and check if there are any errors in my code. I then copied all the code to Visual Studio Code and linked it to GitHub 
+
