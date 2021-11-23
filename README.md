@@ -13,6 +13,8 @@ are interviewers and people who are scouting potential new workers.  They can us
 
 As a interviewee, I want to use this website to scout for this person etc 
 
+From Research I found that Open Sans for the header and Roboto for the text was a good combination due to the crisp and legible style https://www.quicksprout.com/best-font-for-website/
+
 Features
 --------------------
 This website contain the following features
