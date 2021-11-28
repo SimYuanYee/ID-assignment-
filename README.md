@@ -28,8 +28,9 @@ Technolgies Used
 2.Visual Studio Code
 3.Github
 4.Adobe XD
+5.CSS
 
-I first used Adobe XD to create my wireframe.I then used repl.it to code it since it also provided a preview, it allow me see any changes and check if there are any errors in my code. I then copied all the code to Visual Studio Code and linked it to GitHub 
+I first used Adobe XD to create my wireframe.I then used repl.it to code it since it also provided a preview, it allow me see any changes and check if there are any errors in my code. I then copied all the code to Visual Studio Code and linked it to GitHub. I also put all my styles in a seperate CSS file 
 
 Testing
 -----------------
