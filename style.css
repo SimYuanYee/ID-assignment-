@@ -24,6 +24,9 @@
         height:auto;
         width:auto;
       }
+      h4{
+        font-Size: 24px;
+      }
       @media(max-width:630px)
       {
         .container{
