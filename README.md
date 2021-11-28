@@ -13,7 +13,7 @@ are interviewers and people who are scouting potential new workers.  They can us
 
 As a interviewee, I want to use this website to scout for this person etc 
 
-From Research I found that Open Sans for the header and Roboto for the text was a good combination due to the crisp and legible style https://www.quicksprout.com/best-font-for-website/
+From Research I found that Open Sans for the header and Roboto for the text was a good combination due to the crisp and legible style https://www.quicksprout.com/best-font-for-website/, I also found that 24 to 26 pixels being the most popular choice font size for heading so I also went with that https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/#:~:text=Of%20course%2C%20the%20choice%20of%20headline%20font%20size,average%20font%20size%20for%20headings%20is%2025.6%20pixels. I also made the font size for the paragraphs 16px as i found that is the ideal size https://www.quora.com/What-is-the-recommended-font-size-of-headings-and-subheadings-for-a-website.
 
 Features
 --------------------
