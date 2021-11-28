@@ -27,6 +27,9 @@
       h4{
         font-Size: 24px;
       }
+      p{
+        font-size:16px;
+      }
       @media(max-width:630px)
       {
         .container{
