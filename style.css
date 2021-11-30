@@ -46,6 +46,13 @@
         background-color:black;
         color:white;
         background-size:auto ;
+      }
+      #moreinfo2
+      {
+        font-size: 20px;
+        background-color:black;
+        color:white;
+        background-size:auto ;
 
       }
       @media(max-width:630px)
