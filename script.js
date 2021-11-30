@@ -5,5 +5,5 @@ function display_message(){
 }
 
 function display(){
-    document.getElementById('moreinfo1').innerHTML="For PolyTechnic,I am currently Year 2. I have learnt CyberSecurity,Data Sceince,Python,Computing Maths and Design Skills"
+    document.getElementById('moreinfo1').innerHTML="For PolyTechnic,I am currently Year 2. I have learnt CyberSecurity,Data Science,Python,Computing Maths and Design Skills"
 }
