@@ -6,6 +6,7 @@
         font-family: 'Yuji Syuku', serif;
         text-align:center;
         flex-wrap:auto;
+        flex-grow: auto;
         width:600x;
       }
       #text{
