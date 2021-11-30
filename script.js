@@ -3,7 +3,8 @@ function display_message(){
 }
 
 function change_size(){
-    document.getElementsByClassName("p").style.fontSize='24px'
-    document.getElementsByClassName("h4").style.fontSize='30px'
-    document.getElementsByClassName("li").style.fontSize='24px'
+    document.getElementsByID("text").style.fontSize='24px';
+    document.getElementsByID("heading").style.fontSize='36px';
+    
+
 }
