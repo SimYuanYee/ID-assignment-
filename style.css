@@ -5,7 +5,7 @@
         background-color:black;
         font-family: 'Yuji Syuku', serif;
         text-align:center;
-        flex-wrap:wrap;
+        flex-wrap:auto;
         width:600x;
       }
       #text{
