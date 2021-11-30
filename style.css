@@ -33,6 +33,12 @@
       li{
         font-size:16px;
       }
+      #message
+      {
+        Font-size:60px;
+        background-color: blue;
+        color:palegreen;
+      }
       @media(max-width:630px)
       {
         .container{
