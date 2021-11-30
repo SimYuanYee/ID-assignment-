@@ -2,7 +2,7 @@ function display_message(){
     var today=new Date();
     document.getElementById("message").innerHTML = "Thank You!";
     var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
-    console.log(time);
+    document.write(time);
 }
 
 function display(){
