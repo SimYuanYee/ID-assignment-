@@ -1,4 +1,4 @@
-.heading
+#heading
       {
         display:flex;
         color:cyan;
@@ -8,7 +8,7 @@
         flex-wrap:wrap;
         width:600x;
       }
-      .text{
+      #text{
         display:flex;
         flex-wrap:wrap;
         flex-direction:column;
@@ -16,11 +16,11 @@
         color:black;
         font-family: 'Roboto', sans-serif;
       }
-      .container{
+      #container{
         display:flex;
         width:100%;
       }
-      .responsive {
+      #responsive {
         height:auto;
         width:auto;
       }
