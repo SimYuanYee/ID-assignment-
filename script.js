@@ -3,6 +3,6 @@ function display_message(){
 }
 
 function change(){
-    document.getElementsById("text").style.fontSize="24px";
-    document.getElementsById("heading").style.fontSize="36px";
+    document.getElementsById("text").style.fontSize="120%";
+    document.getElementsById("heading").style.fontSize="120%";
 }
