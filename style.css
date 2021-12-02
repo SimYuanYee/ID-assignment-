@@ -23,7 +23,7 @@
       }
       #responsive {
         height:auto;
-        width:auto;
+        width:30%;
       }
       h4{
         font-Size: 24px;
@@ -58,6 +58,11 @@
       @media(max-width:630px)
       {
         #container{
+          display:flex;
+          max-width:100%;
+          flex-wrap:wrap;
+        }
+        #heading{
           display:flex;
           max-width:100%;
           flex-wrap:wrap;
