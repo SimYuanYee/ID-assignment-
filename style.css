@@ -8,6 +8,7 @@
         flex-wrap:auto;
         flex-grow: auto;
         width:600x;
+        height:auto
       }
       #text{
         display:flex;
