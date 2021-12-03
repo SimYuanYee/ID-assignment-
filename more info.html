@@ -1,3 +1,6 @@
+<!--The page will display my contact details and also have a from at the end for people to input their emails for me to 
+contact them-->
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -10,10 +13,13 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
+    <!--The heading element-->
     <section id="heading">
       <h2>More Info</h2>
       </section>
+      <!--The flex container-->
       <section id="container">
+        <!--The text element-->
 <div id="text">
   <p>Below is my Info for further Contact</p>
   <ul>
@@ -22,16 +28,22 @@
   <li>Email:simyuanyee@gmail.com</li>
   </ul>
   <p>Below is links to other projects i have done</li>
+    <!--Below are links to other websites-->
   <p><a href="https://www.np.edu.sg/Pages/default.aspx"> Project 1</a></p>
   <p><a href="https://www.np.edu.sg/studentlife/Pages/default.aspx">Project 2</a></p>
 <p><a href="https://www.np.edu.sg/ict/Pages/default.aspx">Project 3</a></p>
+<!--Link to the previous oage-->
     <h5><a href="skills.html"title="Go to Skills section">Previous Part: Skills</a></p> 
     <p>Please input your email for me to contact you</p>
+    <!--a form element for people to input their email-->
     <form action>
        <label for="email">email:</label>
+       <!--The input for email, i added required to make it compulsory-->
        <input type="email" id="email" name="email" required><br><br>
+       <!--The submit button-->
        <input type="submit" value="Submit"><br><br>
     </form>
+    <!--The javascript to display the message-->
     <button onclick="display_message()">Thank You</button><br><br>
     <p id="message"></p>
   </div>

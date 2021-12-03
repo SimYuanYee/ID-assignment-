@@ -34,5 +34,5 @@ I first used Adobe XD to create my wireframe. I then used Visual Studio Code to 
 
 Testing
 -----------------
-During Testing, i discovered very few errors with my code, one of the errors i discovered was the first page in that the picture and text did not take up the entire width, i also tested multiple deviice using Repl.it and found they all adjusted accordingly 
+During Testing, i discovered very few errors with my code, one of the errors i discovered was the first page in that the picture and text did not take up the entire width, i managed to fix it by modifying my responsive id i also tested multiple deviice using Repl.it and found they all adjusted accordingly 
 I also checked the email submit and found it working fine with it requiring an valid email address. When submitted, he thank you message pops up accordingly. When using a phone device, the first page will change from the image and text being placed side by side to the image being placed above the text.

@@ -1,3 +1,4 @@
+/* This is the id for heading */
 #heading
       {
         display:flex;
@@ -10,6 +11,7 @@
         width:100%;
         height:auto
       }
+      /* This is the id for text*/
       #text{
         display:flex;
         flex-wrap:wrap;
@@ -18,29 +20,36 @@
         color:black;
         font-family: 'Roboto', sans-serif;
       }
+      /*This the id for container*/
       #container{
         display:flex;
         width:100%;
       }
+      /*This is id for responsive which allows to the image ro be scaled*/
       #responsive {
         height:auto;
         width:30%;
       }
+      /*Changing the font size for h4 */
       h4{
         font-Size: 24px;
       }
+      /*Changing the font size for paragraphs */
       p{
         font-size:16px;
       }
+      /*listing the font size for lists */
       li{
         font-size:16px;
       }
+      /*The id for message whichs the final javascript and will display it background color  */
       #message
       {
         Font-size:60px;
         background-color: blue;
         color:palegreen;
       }
+      /*The id for more info whoch would show the styling for the first javascript */
       #moreinfo1
       {
         font-size: 20px;
@@ -48,6 +57,7 @@
         color:white;
         background-size:auto ;
       }
+            /*The id for more info whoch would show the styling for the second javascript */
       #moreinfo2
       {
         font-size: 20px;
@@ -56,13 +66,16 @@
         background-size:auto ;
 
       }
+      /* for phone, it would change the forat of the first page */
       @media(max-width:630px)
       {
+        /*This would change the format for image and text and caus eth eimage to be displayed above the text */
         #container{
           display:flex;
           max-width:100%;
           flex-wrap:wrap;
         }
+        /* This would wrap the heading */
         #heading{
           display:flex;
           max-width:100%;
