@@ -66,7 +66,7 @@
         background-size:auto ;
 
       }
-      /* for phone, it would change the forat of the first page */
+      /* for phone or smaller devices, it would change the forat of the first page */
       @media(max-width:630px)
       {
         /*This would change the format for image and text and caus eth eimage to be displayed above the text */
