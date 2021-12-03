@@ -5,9 +5,9 @@
         background-color:black;
         font-family: 'Yuji Syuku', serif;
         text-align:center;
-        flex-wrap:auto;
-        flex-grow: auto;
-        width:600x;
+        flex-wrap:wrap;
+        flex-grow: 1;
+        width:100%;
         height:auto
       }
       #text{
