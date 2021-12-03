@@ -21,6 +21,7 @@ This website contain the following features
 
 Feature 1- Allow users to click on links at the bottom of the page to proceed to the next page
 Feature 2-Allow users to to fill in their required email address at the last page for me to contact them
+Geature 3- Allow users to click on sections at the bottom of certain pages to see more info
 
 Technolgies Used
 -------------------
